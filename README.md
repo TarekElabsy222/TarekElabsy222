@@ -76,20 +76,16 @@ I'm a passionate **Software Engineer** specializing in **.NET development**, foc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekElabsy222&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekElabsy222&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/TarekElabsy222">
     <img src="https://img.shields.io/badge/GitHub-TarekElabsy222-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tarek-elabsy222/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarek%20Elabsy-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
